@@ -1,0 +1,6 @@
+.bg-img{
+    background: linear-gradient(rgba(71, 200, 223, 0.5), rgba(35,43,56,0.2)) , url('bgimg.png');
+    background-size: cover;
+    
+    
+}
